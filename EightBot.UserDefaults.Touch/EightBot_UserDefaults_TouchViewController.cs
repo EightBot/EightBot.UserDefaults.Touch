@@ -55,6 +55,8 @@ namespace EightBot.UserDefaults.Touch
 
 			btnSave.TouchUpInside += (sender, e) => {
 				NSUserDefaults.StandardUserDefaults.SetValueForKey(new NSString(txtValueToSave.Text), new NSString(TEST_STRING));
+				NSUserDefaults.StandardUserDefaults.Synchronize();
+
 
 				this.View.EndEditing(true);
 			};

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightBot.UserDefaults.Touch", "EightBot.UserDefaults.Touch\EightBot.UserDefaults.Touch.csproj", "{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Release|iPhone.Build.0 = Release|iPhone
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{44A7BE2F-9B9B-4C7E-B841-2C1031F688BF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = EightBot.UserDefaults.Touch\EightBot.UserDefaults.Touch.csproj
+	EndGlobalSection
+EndGlobal
